@@ -4,7 +4,8 @@
   "description": "My adventure for Advent of Code 2019",
   "main": "index.js",
   "scripts": {
-    "test": "ava"
+    "test": "ava",
+    "babel-node": "./node_modules/.bin/babel-node"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,11 @@
   },
   "homepage": "https://github.com/JZenk/advent-of-code-2019#readme",
   "devDependencies": {
+    "@babel/cli": "^7.7.4",
+    "@babel/core": "^7.7.4",
+    "@babel/node": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
     "ava": "^2.4.0"
-  }
+  },
+  "dependencies": {}
 }
