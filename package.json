@@ -1,0 +1,22 @@
+{
+  "name": "advent-of-code-2019",
+  "version": "1.0.0",
+  "description": "My adventure for Advent of Code 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JZenk/advent-of-code-2019.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JZenk/advent-of-code-2019/issues"
+  },
+  "homepage": "https://github.com/JZenk/advent-of-code-2019#readme",
+  "devDependencies": {
+    "ava": "^2.4.0"
+  }
+}
