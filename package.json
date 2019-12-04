@@ -24,7 +24,5 @@
     "@babel/preset-env": "^7.7.4",
     "ava": "^2.4.0"
   },
-  "dependencies": {
-    "mathjs": "^6.2.5"
-  }
+  "dependencies": {}
 }
